@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:Framework"
+      name = "Framework">
+      <FileRef
+         location = "group:BSupermanLogger/BSupermanLogger.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:Example"
+      name = "Example">
+      <FileRef
+         location = "group:ExampleBSupermanLogger/ExampleBSupermanLogger.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
